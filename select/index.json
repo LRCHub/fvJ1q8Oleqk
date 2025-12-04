@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Cloudy Freestyle",
+  "base_artist": "MIKADO",
+  "createdAt": "2025-12-04T09:56:11.487983Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cloudy Freestyle",
+      "artist": "MIKADO",
+      "has_synced": false,
+      "path": "select/pl_01_Cloudy_Freestyle_MIKADO.txt"
+    }
+  ]
+}
